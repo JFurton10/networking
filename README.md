@@ -1,1 +1,1 @@
-# some network code in le Cenior language
+# some network code
